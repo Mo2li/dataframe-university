@@ -1,5 +1,5 @@
 The libraries required to run the code
- numpy
+numpy
 pandas
 matplotlib
 seaborn
